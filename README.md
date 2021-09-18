@@ -1,4 +1,4 @@
-# QOSF Mentorship Assesment Task
+# QOSF Mentorship Assessment Submission - Task 2
 
 This is my submission for the Quantum Open Source Foundation's Mentorship Program Cohort 4. The task was to train
 a variational quantum circuit that produces certain quantum states given some input states. I choose PennyLane to 
